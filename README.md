@@ -6,3 +6,6 @@ I'm a web developer from Minnesota 🚤
 [🔗 LinkedIn](https://www.linkedin.com/in/bernardodsanderson/)
 
 [🗄️ Portfolio](./portfolio.md)
+
+[📝 Resume](https://github.com/bernardodsanderson/bernardodsanderson/files/7086830/anderson-resume.pdf)
+
