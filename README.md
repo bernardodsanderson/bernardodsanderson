@@ -2,8 +2,11 @@
 
 # Vido
 <img src="https://user-images.githubusercontent.com/5623786/131567961-8af736b4-c4f7-49e5-a7b0-8ec409d01edd.png" data-canonical-src="https://user-images.githubusercontent.com/5623786/131567961-8af736b4-c4f7-49e5-a7b0-8ec409d01edd.png" width="400" />
+
 [Link](https://appcenter.elementary.io/com.github.bernardodsanderson.vido/)
+
 [GitHub](https://github.com/bernardodsanderson/vido)
+
 - A simple GTK+3 desktop app using Vala and Meson build system. Built for the Elementary OS linux desktop.
 
 # INFORUM News
