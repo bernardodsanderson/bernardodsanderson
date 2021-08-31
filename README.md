@@ -7,5 +7,4 @@ I'm a web developer from Minnesota 🚤
 
 [🗄️ Portfolio](./portfolio.md)
 
-[📝 Resume](https://github.com/bernardodsanderson/bernardodsanderson/files/7086830/anderson-resume.pdf)
-
+[📝 Resume](https://github.com/bernardodsanderson/bernardodsanderson/files/7086886/anderson-resume.pdf)
