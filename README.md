@@ -7,4 +7,4 @@ Web developer from Minnesota 🚤
 
 [🗄️ Portfolio](./portfolio.md)
 
-[📝 Resume](https://github.com/bernardodsanderson/bernardodsanderson/files/7086886/anderson-resume.pdf)
+[📝 Resume](https://github.com/bernardodsanderson/bernardodsanderson/files/7676919/anderson-resume.pdf)
