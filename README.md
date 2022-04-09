@@ -1,7 +1,7 @@
 ### Hi, I'm Bernardo Anderson 👋🏻
 Web developer from Minnesota 🚤
 
-[📫 bernardo.anderson@hey.com](mailto:bernardo.anderson@hey.com)
+[📫 bdsa@tutanota.com](mailto:bdsa@tutanota.com)
 
 [🔗 LinkedIn](https://www.linkedin.com/in/bernardodsanderson/)
 
