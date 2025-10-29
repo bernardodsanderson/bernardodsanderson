@@ -5,6 +5,4 @@ Web developer from Minnesota 🚤
 
 [🔗 LinkedIn](https://www.linkedin.com/in/bernardodsanderson/)
 
-[🗄️ Portfolio](./portfolio.md)
-
 [📝 Resume](https://github.com/bernardodsanderson/bernardodsanderson/files/7676919/anderson-resume.pdf)
