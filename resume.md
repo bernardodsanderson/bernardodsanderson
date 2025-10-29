@@ -13,8 +13,8 @@ Results-driven Senior Software Engineer with over 8 years of experience speciali
 
 *   **Backend:** Ruby on Rails, GraphQL, PHP, Node.js, Java/JSP
 *   **Frontend:** React, JavaScript, TypeScript, Angular, Twig
-*   **Databases:** PostgreSQL, SQL, NoSQL Concepts
-*   **Cloud & DevOps:** AWS (EC2, S3, SQS), Docker, Kubernetes (Familiar), CI/CD, Terraform (Familiar)
+*   **Databases:** PostgreSQL, MySQL, NoSQL Concepts
+*   **Cloud & DevOps:** AWS, Docker, Kubernetes (Familiar), CI/CD
 *   **Testing:** RSpec, Jest, TDD (Test-Driven Development)
 *   **Tools & Methodologies:** Git, Agile, Scrum, Atomic Design, Microservices Architecture
 
@@ -27,17 +27,17 @@ Results-driven Senior Software Engineer with over 8 years of experience speciali
 
 *   Architected and developed scalable, full-stack features using **Ruby on Rails**, with a strong focus on high-performance **backend APIs** and data integrity to support a rapidly growing user base.
 *   Implemented **Test-Driven Development (TDD)** using **RSpec**, ensuring robust code quality and reducing production bugs. Championed a culture of testing within the squad.
-*   Pioneered the company's first centralized UI component library in close collaboration with the design team, using **React** and Storybook to standardize the design system and significantly increase developer velocity.
+*   Pioneered the company's first centralized UI component library in close collaboration with the design team, using **ViewComponents** and Storybook to standardize the design system and significantly increase developer velocity.
 *   Actively champion and co-lead a cross-functional AI leadership group, evaluating and integrating tools like GitHub Copilot to modernize development practices and enhance developer efficiency across the engineering organization.
-*   Optimized application performance by profiling and refactoring critical **PostgreSQL** queries and Ruby code, resulting in a 32% reduction in page load times.
 *   Collaborated with product and engineering teams to translate business requirements into technical roadmaps, defining project scopes and managing timelines to consistently deliver on quarterly goals.
 
 ### **FBS Data Systems** — Web Developer Manager / Web Developer
 *2019 - 2022 / 2017 - 2018*
 
-*   Led the migration of core features from a legacy monolith to a modern **Ruby on Rails microservices** architecture, significantly improving system **scalability**, maintainability, and deployment frequency.
+*   Led the migration of core features from a legacy monolith to a modern **Ruby on Rails** architecture, significantly improving system **scalability**, maintainability, and deployment frequency.
 *   Mentored and managed a team of developers, conducting thorough code reviews to uphold high standards for performance and security, and fostering their professional growth in **Agile** environments.
 *   Drove a "performance-first" culture, implementing rigorous code review processes that prioritized **API** response times and database efficiency, directly enhancing the end-user experience.
+*   Optimized application performance by profiling and refactoring critical **PostgreSQL** queries and Ruby code, resulting in a 32% reduction in page load times.
 
 ### **Forum Communications** — Software Engineering Manager / Lead Front-End Developer
 *2018 - 2019 / 2015 - 2017*
