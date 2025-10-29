@@ -5,7 +5,7 @@
 
 ## Professional Summary
 
-Results-driven Senior Software Engineer with over 8 years of experience specializing in **Ruby on Rails** development and **scalable backend systems**. Proven expertise in building and maintaining high-performance **APIs**, optimizing **PostgreSQL** databases, and leveraging **AWS** and **Docker** to enhance infrastructure. Passionate about improving developer experience and architecting robust solutions for data-intensive platforms. Seeking to apply deep technical leadership and platform engineering skills to a dynamic team like PrizePicks.
+Results-driven Senior Software Engineer with over 8 years of experience specializing in **Ruby on Rails** development and **scalable backend systems**. Proven expertise in building and maintaining high-performance **APIs**, optimizing **PostgreSQL** databases, and leveraging **AWS** and **Docker** to enhance infrastructure. Passionate about improving developer experience and architecting robust solutions for data-intensive platforms.
 
 ---
 
